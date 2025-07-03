@@ -10,10 +10,14 @@
   color: #222;
 }
 
-h1, h2 {
-  font-family: 'Comic Sans MS', 'Arial', sans-serif;
-  color: #222; 
-  text-shadow: 2px 2px 0 #ffd700; 
+h1 {
+  color: #000; /* Blanco */
+  text-shadow: 2px 2px 4px #fff;
+}
+
+h2 {
+  color: #ffcc00; /* Amarillo Pokémon */
+  text-shadow: 2px 2px 4px #000;
 }
 
 .pokemon-container {
